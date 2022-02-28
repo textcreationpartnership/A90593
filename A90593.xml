@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the kingdome of Scotland, to the Lords of His Maiesties most Honourable Privy Councell of that kingdome declaring their loyalty to His Majesty, and sincere affection and love to their brethren of England, and the Parliament now assembled. Presented by two earles, two knights, two burgesses, and two ministers; in behalfe of themselves, and the well affected of the whole kingdome. To the Right Honourable, the Lord of His Maiesties Privy Councell: the humble petition of many noblemen, gentlemen, burgesses, and ministers occasionally meeting at Edenbourgh.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90593</idno>
+            <idno type="STC">Wing P1805C</idno>
+            <idno type="STC">Thomason 669.f.6[27]</idno>
+            <idno type="STC">ESTC R212351</idno>
+            <idno type="EEBO-CITATION">99870977</idno>
+            <idno type="PROQUEST">99870977</idno>
+            <idno type="VID">160888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160888)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the kingdome of Scotland, to the Lords of His Maiesties most Honourable Privy Councell of that kingdome declaring their loyalty to His Majesty, and sincere affection and love to their brethren of England, and the Parliament now assembled. Presented by two earles, two knights, two burgesses, and two ministers; in behalfe of themselves, and the well affected of the whole kingdome. To the Right Honourable, the Lord of His Maiesties Privy Councell: the humble petition of many noblemen, gentlemen, burgesses, and ministers occasionally meeting at Edenbourgh.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. for Henry Overton, in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Praying them to "leave no lawfull meanes unassayed for begetting a good understanding betwixt his Majesty and his Parliament.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Privy Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160888:1" rendition="simple:additions"/>
+            <head>THE PETITION OF THE Kingdome of SCOTLAND, To the Lords of His Maieſties moſt Honourable Privy Councell of that Kingdome: Declaring their loyalty to His Majeſty, and ſincere affection and love to their brethren of <hi>England,</hi> And the Parliament now aſſembled.</head>
+            <head>Preſented by two Earles, two Knights, two Burgeſſes, and two Miniſters; in behalfe of themſelves, and the well affected of the whole Kingdome.</head>
+            <head>TO THE RIGHT HONOVRABLE, THE LORDS OF HIS MAIESTIES Privy Councell: the humble Petition of many Noblemen, Gentlemen, Burgeſſes, and Miniſters occaſionally meeting at <hi>Edenbourgh.</hi>
+            </head>
+            <opener>Moſt humbly ſhewing,</opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas they upon the report and ſight of great Convocations ſuddenly endeavoured and unexpectedly brought into this great Counſell day, for the moſt part by theſe who have beene eſteemed by the Countrey and challenged by the Parlia<g ref="char:EOLhyphen"/>ment, as Incendiaries, plotters, and enemies to the peace of this Kingdome, have occaſionally conveened at <hi>Edenburgh.</hi> And having heard of Letters from His Majeſty, and Declaration from the Parliament of <hi>England</hi> anent the preſent di<g ref="char:EOLhyphen"/>ſtractions of that Kingdome: They have reaſon from bygon experience, and preſent preſumptions to feare the intentions and endeavours of theſe evill affected perſons and their adherents, leaſt by their convocations and ſollicitations they take occaſion of theſe differences to raiſe jealouſies and diviſions betwixt theſe Kingdomes. And conſidering the com<g ref="char:EOLhyphen"/>mon intereſt of all the Subjects of this Kingdome to preſerve the late peace, ſo happily concluded betwixt theſe Nations, by the providence of God, his Majeſties goodneſſe and wiſedome, and the moderation of the Parliament of <hi>England,</hi> and ſo ſolemnly eſtabliſhed by the late treaty, oath of Parliament, publique faith, and the great Seales of theſe Kingdomes. As in all other points, ſo eſpecially in theſe Articles (whereunto the reſt are called but prefaces) for ſetling and entertaining a ſolid peace betwixt theſe Nations in true union; leſt upon any pretence they ſhould be daſht one againſt another. Wherein it is declared the duty of the eſtates yea o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> every ſubject for to conveene and ſuppreſſe any evill affected perſons who would raiſe Armes againſt the Subjects of the other Kingdome without conſent of Parliament as traytors to the eſtate, much more to Petition againſt it, and wherein there is appointed a Commiſſion of the eſtates for the conſervation of this peace in the inte<g ref="char:EOLhyphen"/>rim betwixt Parliaments. All which the Petitioners amongſt the reſt of the good Subjects of this Kingdome, did hazzard their lives and e<g ref="char:EOLhyphen"/>ſtates, to obtaine: And did demand in the Treaty upon their dangerous experience of the Councell of <hi>England</hi> there medling in the affaires betwixt His Majeſty and this Kingdome; to the ingaging of the Nations in Warre, which is ſo often condemned by the eſtates of this King<g ref="char:EOLhyphen"/>dome in their Remonſtrances, preſſing that common rule of Equity, <hi>To doe as you would be done unto;</hi> which now is and may be retorted on this Kingdome. Like as deſiring earneſtly, that your Lordſhips in theſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> publique reſolutions of ſo great conſequences to theſe Kingdomes, may carry along with you the hearts and conſciences of the body of this Kingdome, and prevent that the breaches grow not wider by falſe confidences grounded upon ſuddaine undertakings of any perſons, as alſo their naturall affection and duty to their gracious Soveraigne ac<g ref="char:EOLhyphen"/>cording to their manifold obligations, and brotherly affection to the Kingdome of <hi>England,</hi> forcing them to pray to God, and to deſire all men according to their ſtations to uſe all lawfull means, to breed and intertaine a good underſtanding betwixt His Majeſty and His Parlia<g ref="char:EOLhyphen"/>ment, the ſureſt foundation of greatneſſe to His Majeſty, and happineſſe to theſe Kingdomes. Likewiſe taking to heart the dangerous con<g ref="char:EOLhyphen"/>ſequences to His Majeſty, and to his Dominions if your Lordſhips anſwer by tendering the offer of your ſervice to His Majeſty againſt the demands, or upon the differences betwixt His Majeſty and His Parliament of <hi>England</hi> or any other manner of way import (which God forbid) any ingaging of your ſelves, or theſe Nations in warre, or any thing that may tend thereunto.</p>
+            <p>Therefore in their own names, and in the name of the reſt of the Noblemen, Gentlemen, Burgeſſes, and Miniſters whoſe hearts doe, and hands would goe along with this petition for preſervation of peace betwixt theſe Kingdomes, They doe in all humility, and earneſtneſſe pe<g ref="char:EOLhyphen"/>tition your Lordſhips, in the depth of your wiſdomes, ſeriouſly to ponder the conſequences, of your anſwer to his Majeſty, and the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> at this time, ſo that thereby, neither the confidence betwixt his Majeſty and good Subjects here, nor amongſt themſelves, nor betwixt the Kingdomes (theſe unions tending ever to his Majeſties geatneſſe, and theſe diſunions to his prejudice) may be any wayes weakened, or their peace endangered. And to that end, that as your Lorſhips would leave no lawfull meanes, according to your vocation, and intereſt unaſſayed for begetting a good unerſtanding betwixt his Majeſty, and his Parliament, being his greateſt and moſt unparſhall Councell repreſenting the body, whereof his Majeſty is the Head; and ſo removing theſe diſtractions (the continuance wherof will ſure trouble the peace of the Kingdome,) according to your Lordſhips laſt anſwer, ſo alſo ſeeing his Majeſtie requires not that your Lordſhips ſhould, neither can your Lordſhips judge, of the Lawes and proceedings of another independent Kingdome; and the Parliament of <hi>England</hi> offers to give all ſatifaction, concerning any meſſages or papers ſent to your Lordſhips anent their proceedings, that your Lordſhips would be pleaſed carefully, to ſhun all offers of verball or reall engagements, either directly or by way of inference, without conſent of the Parliament conforme to the treaty, which either may give any juſt occaſion of offence, to your gracious ſoveraigne, or of jealouſly to your brethre<g ref="char:cmbAbbrStroke">̄</g> in <hi>England,</hi> or of diſcourſe unto any, as if your Lordſhips did not obſerve that former rule of equity preſced by themſelves during your troubles. To doe to others as they will be done to themſelves. But did fall in the ſame faults, which your Lordſhips, and the reſt of the eſtates of this Kingdome, had condemned in the Councell of <hi>England;</hi> And for this effect they cannot but remember your Lordſhips that according to an Article of the Treatiſe, there was appointed a Commiſſion as independent as any other, of ſo many of every eſtate repreſenting the whole Kingdome, to prevent all occaſion of diviſion betwixt theſe Kingdomes, in the interim betwixt Parliaments. All which they humbly repreſenting to your Lordſhips wiſe conſiderations, and expect from your Lordſhips, ſo gracious an anſwer, as may ſatisfy their preſent feares, and ſecure from thoſe dangers in the interim betwixt Parliaments, and thereby prevent all neceſſity of petitions in this kinde.</p>
+            <closer>
+               <dateline>
+                  <hi>Preſented</hi> 
+                  <date>31. <hi>May</hi> 1642.</date>
+               </dateline>
+               <salute>To the Lords of His Majeſties Privy Councell,</salute> By
+<signed>E. Haddington</signed>
+               <signed>E. Elcho.</signed>
+Earles.
+<signed>Scotiſ-craig.</signed>
+               <signed>Niddrie.</signed>
+Knights.
+<signed>John Binny.</signed>
+               <signed>Thomas Paterſon.</signed>
+Burgeſſes.
+<signed>M. Andrew Ramſey.</signed>
+               <signed>M. John Montcreiff.</signed>
+Miniſters.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by <hi>E. G.</hi> for <hi>Henry Overton,</hi> in Popes-head-Alley. 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
